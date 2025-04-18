@@ -1,0 +1,65 @@
+## 👋 Hey there! I'm Sandhya AR
+🚀 **Passionate Developer** | 💻 **Web Enthusiast** | 📚 **Lifelong Learner** | 🎮 **Gamer at heart**  | 🍱 **Certified Foodie** 
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sandhya-AR&color=blueviolet&style=flat)
+
+---
+
+### 🌱 About Me
+
+- 🔭 I’m currently working on **exciting full-stack projects**
+- 🌱 Learning **MERN Stack**, **C++**, and improving **DSA**
+- 📈 Interested in building scalable tech and real-world applications
+- 💬 Always up for collabs and coding discussions
+- 🎮 I enjoy gaming in my free time – it's my favorite way to unwind!
+- 📫 Reach me at: itissandhyak@gmail.com 
+
+---
+
+### 💡 What I’m Up To
+
+- 🔧 Tech Stack: `HTML` | `CSS` | `JavaScript` | `React` | `Node.js` | `MongoDB` | `Express.js` | `Tailwind CSS`
+- 📚 Exploring: `Git & GitHub`, `Responsive Design`, and `API Integration`
+- 🎯 Goal: Build real-world projects that are both **functional** and **fun**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Development-FB8C00?style=flat&logo=Google-Chrome&logoColor=white"/>
+</p>
+
+---
+
+### 📈 GitHub Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sandhya-AR&theme=radical&hide_border=false)](https://git.io/streak-stats)
+
+
+---
+
+### 🌍 Let’s Connect
+
+[LinkedIn](www.linkedin.com/in/sandhya-ar) • [Resume](https://drive.google.com/file/d/1IqwEWZirUlxsjc6wmN6j5quJfpj9KZWG/view?usp=sharing) • [Mail me](itissandhyak@gmail.com)
+
+---
+
+
+### ✨ Thanks for stopping by! Let’s build something great together.
+
+<!---
+Sandhya-AR/Sandhya-AR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
