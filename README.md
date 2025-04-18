@@ -53,7 +53,7 @@
 
 ### 🌍 Let’s Connect
 
-[LinkedIn](www.linkedin.com/in/sandhya-ar) • [Resume](https://drive.google.com/file/d/1IqwEWZirUlxsjc6wmN6j5quJfpj9KZWG/view?usp=sharing) • [Mail me](itissandhyak@gmail.com)
+[LinkedIn](www.linkedin.com/in/sandhya-ar) • [Resume](https://drive.google.com/file/d/1IqwEWZirUlxsjc6wmN6j5quJfpj9KZWG/view?usp=sharing)
 
 ---
 
