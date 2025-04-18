@@ -1,6 +1,9 @@
 <h1 align="center">👋 Hello, I'm Sandhya A R!</h1>
 🚀 Passionate Developer | 💻 Web Enthusiast | 🎮 Gamer at heart  | 🍱 Certified Foodie
 
+<br> I'm a full stack developer in progress who loves turning random 2 AM ideas into actual working code.
+This space is where I’m building, experimenting, and growing — one project, one bug, and one breakthrough at a time. 💻
+
  <br> ![Profile Views](https://komarev.com/ghpvc/?username=Sandhya-AR&color=DAA520&style=flat)
 
 
