@@ -1,7 +1,7 @@
-## 👋 Hey there! I'm Sandhya AR
-🚀 **Passionate Developer** | 💻 **Web Enthusiast** | 📚 **Lifelong Learner** | 🎮 **Gamer at heart**  | 🍱 **Certified Foodie** 
+<h1 align="center">👋 Hello, I'm Sandhya A R!</h1>
+🚀 Passionate Developer | 💻 Web Enthusiast | 🎮 Gamer at heart  | 🍱 Certified Foodie
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sandhya-AR&color=blueviolet&style=flat)
+ <br> ![Profile Views](https://komarev.com/ghpvc/?username=Sandhya-AR&color=DAA520&style=flat)
 
 ---
 
