@@ -59,14 +59,12 @@ This space is where I’m building, experimenting, and growing — one project, 
 <p align="left">
   <a href="https://www.linkedin.com/in/sandhya-ar" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
- 
-   <a href="https://www.codingninjas.com/studio/profile/your-codingninjas-username" target="_blank">
-    <img src="https://ninjasfiles.s3.amazonaws.com/0000000000000723.jpg" alt="Coding Ninjas" width="48"/>
-  </a>
-  
+  </a> 
   <a href="https://leetcode.com/u/Sandhya_AR" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="48"/>
+  </a>
+   <a href="https://www.naukri.com/code360/profile/Sezza" target="_blank">
+    <img src="https://ninjasfiles.s3.amazonaws.com/0000000000000723.jpg" alt="Coding Ninjas" width="48"/>
   </a>
 </p>
 
